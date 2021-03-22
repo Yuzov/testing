@@ -2,6 +2,8 @@
 *.exe
 *.obj
 *.o
+*.d
+*.a
 #Ignore Backup files of the text editor used
 .main.c.swp
 main.c~
